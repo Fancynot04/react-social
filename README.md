@@ -1,5 +1,6 @@
 **# Getting Started with Create React App**
 
+# Part A: Question To Resolve
 > Q: Can't resolve dependency error npm install @material-ui/icons 
 
 ```shell
@@ -15,3 +16,8 @@ npm install @material-ui/icons
 npm start
 
 ```
+
+
+
+# Part B: React Syntex
+
