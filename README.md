@@ -1,7 +1,7 @@
 **# Getting Started with Create React App**
 
 # Part A: Question To Resolve
-> Q: Can't resolve dependency error npm install @material-ui/icons 
+> Q1: Can't resolve dependency error npm install @material-ui/icons 
 
 ```shell
 
@@ -17,7 +17,9 @@ npm start
 
 ```
 
-
-
+> Q2: In the event of a click on like, the state of the parameter changes 
+```
+react updates all states before rendering
+```
 # Part B: React Syntex
 

@@ -1,0 +1,14 @@
+.sidebarFriend {
+    display: flex;
+    align-items: center;
+    /* align-self 属性是应用于容器内单个项目的，用于覆盖align-items属性为该项目指定的对齐方式 */
+    margin-bottom: 15px;
+}
+
+.sidebarFriendImg {
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 15px;
+}

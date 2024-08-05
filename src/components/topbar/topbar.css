@@ -1,11 +1,12 @@
 .topbarContainer {
     height: 50px;
     width: 100%;
-    background: #278cb4;
+    background: #185cc2;
     display: flex;
     top: 0;
     align-items: center;
     position: sticky;
+    z-index: 999;
 }
 
 .topbarLeft {

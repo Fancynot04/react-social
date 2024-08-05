@@ -1,3 +1,41 @@
-.rightbar{
+.rightbar {
     flex: 3.5;
 }
+
+.rightbarWrapper {
+    padding: 20px 20px 0 0;
+    /* 上右下左 */
+}
+
+.brithdayContainer {
+    display: flex;
+    align-items: center;
+}
+
+.brithdayImg {
+    width: 40px;
+    height: 40px;
+    margin-right: 5px;
+}
+
+.brithdayText {
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.rightbarAd {
+    width: 100%;
+    margin: 30px 0;
+    border-radius: 10px;
+}
+
+.rightbarTitle {
+    margin-bottom: 20px;
+}
+
+.rightbarFriendList {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
