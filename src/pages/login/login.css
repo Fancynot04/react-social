@@ -1,0 +1,40 @@
+.login{
+    width: 100vw;
+    height: 100vh;
+    background-color: #f0f2f5;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    /* flex-direction默认为row，为主轴，justify-content根据主轴进行居中，align-items则会从交叉轴（垂直于主轴）上居中 */
+}
+
+.loginWrapper{
+    width: 70%;
+    height: 70%;
+    /* background-color: grey; */
+    display: flex;
+}
+
+.loginLeft,.loginRight{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.loginLogo{
+    font-size: 50px;
+    font-weight: 800;
+    color: #185cc2;
+}
+
+.loginDesc{
+    font-size:24px;
+}
+
+.loginBox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+    background-color: white;
+}
