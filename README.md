@@ -21,5 +21,8 @@ npm start
 ```
 react updates all states before rendering
 ```
+
+
+
 # Part B: React Syntex
 
